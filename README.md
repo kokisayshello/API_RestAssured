@@ -1,6 +1,5 @@
 # API_RestAssured
 
-Java with Rest Assured
 REST Assured is a Java library that provides a domain-specific language (DSL) for writing powerful, maintainable tests for RESTful APIs.
 You can use RestAssured to send HTTP(S) requests, set up expectations/assertions for responses, and perform various API testing tasks.
 To run the Java code with RestAssured, you'll need to set up a Java development environment and include RestAssured as a dependency in your project.
